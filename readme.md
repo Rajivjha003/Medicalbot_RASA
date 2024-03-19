@@ -57,4 +57,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Please note that the actual code modification and research on the latest trends in coding would require a more detailed understanding of your project's current state and specific requirements. This is something that would be best done by a developer with access to the project's codebase. However, I'm here to help with any questions or guidance you might need along the way! 😊
